@@ -1,3 +1,9 @@
+'''
+*  https://coderlog.top
+*  https://youtube.com/CoderLog
+*  https://youtu.be/DDFHtTIPvZ0
+'''
+
 import tkinter
 from tkinter import *
 from tkinter.filedialog import asksaveasfile, askopenfile
